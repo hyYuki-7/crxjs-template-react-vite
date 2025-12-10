@@ -1,3 +1,7 @@
+以下は英語の README.md を日本語に翻訳したもの
+
+---
+
 # React + Vite + CRXJS
 
 このテンプレートは、React と Vite を使った Chrome 拡張機能の開発をすぐに始めるのに役立ちます。CRXJS Vite プラグインが含まれているため、Chrome 拡張機能をシームレスに開発できます。
